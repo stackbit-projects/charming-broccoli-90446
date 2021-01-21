@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: The new Webduh?
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      This could be our coming of age. Out dated as fast as we developed. We
+      will keep you all up to date with us.
     actions:
       - label: Learn More
         url: /features
