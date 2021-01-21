@@ -27,7 +27,11 @@ sections:
   - type: features_section
     title: Features
     features:
-      - title: Feature 1
+      - title: >-
+          Better. Faster. More impactful. Roar online with us guiding and
+          managing your digital Presence for you. Piece of mind and participate
+          at what ever level of design you want. We want what's best for all of
+          you.
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
